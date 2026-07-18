@@ -1,0 +1,9 @@
+{
+  "name": "ginger-hands-free",
+  "description": "Ginger voice agent for driving",
+  "buildpacks": [
+    {
+      "url": "heroku/python"
+    }
+  ]
+}
